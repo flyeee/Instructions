@@ -4,13 +4,12 @@
 
 ##### Download Python 3.8.5
 
-```
-https://www.python.org/downloads/
-```
+[python-3.8.5.exe](https://www.python.org/ftp/python/3.8.5/python-3.8.5.exe)
+
 
 ##### Install Python (Windows)
 
-Double click [python-3.8.5.exe](https://www.python.org/ftp/python/3.8.5/python-3.8.5.exe)
+Double click python-3.8.5.exe
 
 Check "Add Python 3.8 to PATH"
 
