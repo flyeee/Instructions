@@ -36,7 +36,7 @@ Check "Add Python 3.8 to PATH"
    2. Port Number:28386
    3. check User authentication agent
    4. User Name: imgprocess
-   5. Password: imgprocess
+   5. Password: "Ask me for that"
 3. Download all picture to your local drive
 
 ### 4.	Pre-process images
