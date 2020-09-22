@@ -66,7 +66,7 @@ Check "Add Python 3.8 to PATH"
   11. Click "Edit Polygons " to adjust the polygon (make sure it's perfectly fit!)
   12. Enter Object name exact same as "licenseplate"
   13. Click button "Next Image" 
- 14. Loop through 1-13
+ 14. Loop through 9-13
 
 
 
