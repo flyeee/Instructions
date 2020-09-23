@@ -37,19 +37,19 @@ Check "Add Python 3.8 to PATH"
    3. check User authentication agent
    4. User Name: imgprocess
    5. Password: "Ask me for that"
-3. Download all picture to your local drive
+3. Download Folder "Images_your name" to your local drive
 
 ### 4.	Pre-process images
 
-1. Download all picture to your local drive
+1. Make sure you finished downloading all picture to your local drive
 
-2. There should be 5-6 images for one trigger of event, pick the one have most clearly plate.
+2. There should be 5-6 images for one event, pick the one have most clearly plate.
 
 3. Rename the image as their PLATE Number.
 
 4. Create a new folder called "DATA" , and put renamed image inside of it.
 
-   
+5. If you found mutiple vehicle plates in one image. Don't pick it. If all 6 images for this event have mutiple vehicle plates, delete all 6 imgs for this event.
 
 ### 5.	Start Labelme
 
