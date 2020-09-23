@@ -47,14 +47,14 @@ Check "Add Python 3.8 to PATH"
 
 3. Rename the image as their PLATE Number.
 
-4. Create a new folder called "DATA" , and put renamed image inside of it.
+4. Create a new folder called "DATA_yourname" , and put renamed image inside of it.
 
 5. If you found mutiple vehicle plates in one image. Don't pick it. If all 6 images for this event have mutiple vehicle plates, delete all 6 imgs for this event.
 
 ### 5.	Start Labelme
 
   1. Make sure you get all images for labeling
-  2. Create a folder called "JSON"
+  2. Create a folder called "JSON_yourname"
   3. Open a CMD Window
   4. Type "labelme" and press ENTER (should open lableme)
   5. Click button "Open Dir"
